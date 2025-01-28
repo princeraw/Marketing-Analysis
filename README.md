@@ -10,12 +10,17 @@ KEY PERFORMANCE INDICATORS (KPIs):
 2. Repeat Purchase Rate (RPr) : The percentage of customers who make more than one purchase in a given time frame.
 
 Insights
-The sales peak on Wednesday, contributing  27 % of the overall sales. 
-August 2023 had the highest sale of 12.6 lakhs , contributing approx. 8%  of the total sales.
-Toys and gift is the highest selling category, contributing 20 % to the total sales.
-Categories like Electronics, Pet Shop, Fashion contributes least to the total sales.
+
+1. The sales peak on Wednesday, contributing  27 % of the overall sales. 
+2. August 2023 had the highest sale of 12.6 lakhs , contributing approx. 8%  
+   of the total sales.
+3. Toys and gift is the highest selling category, contributing 20 % to the 
+   total sales.
+4. Categories like Electronics, Pet Shop, Fashion contributes least to the 
+   total sales.
 
 Recommendations 
+
 1. Introduce free registrations programs that provides special rewards for the customers that orders after registering, which gives repeated purchases and long term engagement.
 2. Regularly collect feedback from customers to understand their needs and 
    expectations.
